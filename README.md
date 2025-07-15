@@ -1,7 +1,7 @@
 # 📊 Product Performance Analysis using SQL & Power BI
 
 ## 👩‍💻 Author: Radhika Gonnabattula  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-link-here)  
+🔗 [LinkedIn](https://www.linkedin.com/in/radhika-gonnabattula-chandra/))  
 📧 radhika.chandra061@gmail.com  
 
 ---
